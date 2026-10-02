@@ -1,6 +1,7 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.10.0.schema.json
+# Replace 1.0.6 after the public GitHub release exists.
 PackageIdentifier: Zettersten.Shnapp
-PackageVersion: 1.0.4
+PackageVersion: 1.0.6
 PackageLocale: en-US
 Publisher: Erik Zettersten
 PublisherUrl: https://zettersten.com
